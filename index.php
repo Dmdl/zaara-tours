@@ -973,7 +973,7 @@
 
                                 </div>
 
-                                <p class="copy-right">&#169; 2016 localExpert. All Rights Reserved</p>
+                                <p class="copy-right">&#169; 2016 Zaara Tours. All Rights Reserved</p>
 
                             </div>
 
