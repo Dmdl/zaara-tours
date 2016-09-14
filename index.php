@@ -172,8 +172,8 @@
 
                             <div class="col-xss-8 col-xs-7 col-sm-6">
 
-                                <h1 class="hero-title"><span class="block font900 text-primary uppercase"> Australian</span> Tour &amp; Guide</h1>
-                                <p class="hero-lead">We offer unique Luxury travels, sightseeing tours, escorted tours of Australia</p>
+                                <h1 class="hero-title"><span class="block font900 text-primary uppercase"> Sri Lankan</span> Tour &amp; Guide</h1>
+                                <p class="hero-lead">We offer unique Luxury travels, sightseeing tours, escorted tours of Sri Lanka</p>
                                 <a href="explore.html" class="btn btn-primary">Explore</a>
 
                             </div>
@@ -364,7 +364,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Sydney</h5>
+                                                <h5>Nuwara Eliya</h5>
                                                 <p><span class="fa fa-eye"></span> 23 experiences</p>
                                             </div>
 
@@ -385,7 +385,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Broome</h5>
+                                                <h5>Kandy</h5>
                                                 <p><i class="fa fa-eye"></i> 8 experiences</p>
                                             </div>
 
@@ -406,7 +406,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Sunshine Coast</h5>
+                                                <h5>Yala National Park</h5>
                                                 <p><i class="fa fa-eye"></i> 5 experiences</p>
                                             </div>
 
@@ -427,7 +427,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Uluru</h5>
+                                                <h5>Unawatuna</h5>
                                                 <p><span class="fa fa-eye"></span> 6 experiences</p>
                                             </div>
 
@@ -448,7 +448,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Melbourne</h5>
+                                                <h5>Arugambe</h5>
                                                 <p><span class="fa fa-eye"></span> 15 experiences</p>
                                             </div>
 
@@ -469,7 +469,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Gold Coast</h5>
+                                                <h5>Hikkaduwa</h5>
                                                 <p><span class="fa fa-eye"></span> 7 experiences</p>
                                             </div>
 
@@ -490,7 +490,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Road Coast</h5>
+                                                <h5>Kithulgala</h5>
                                                 <p><span class="fa fa-eye"></span> 14 experiences</p>
                                             </div>
 
@@ -511,7 +511,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Brisbane</h5>
+                                                <h5>Minneriya</h5>
                                                 <p><span class="fa fa-eye"></span> 29 experiences</p>
                                             </div>
 
@@ -532,7 +532,7 @@
                                             </div>
 
                                             <div class="caption">
-                                                <h5>Kiama</h5>
+                                                <h5>Sigiriya</h5>
                                                 <p><span class="fa fa-eye"></span> 3 experiences</p>
                                             </div>
 
@@ -550,27 +550,27 @@
 
                                     <ul class="destination-list clearfix">
 
-                                        <li><a href="#">Perth</a></li>
-                                        <li><a href="#">Cairns</a></li>
-                                        <li><a href="#">Darwin</a></li>
-                                        <li><a href="#">Fraser Island</a></li>
-                                        <li><a href="#">Canberra</a></li>
-                                        <li><a href="#">Adelaide</a></li>
-                                        <li><a href="#">Hobart</a></li>
-                                        <li><a href="#">Port Douglas</a></li>
-                                        <li><a href="#">Margaret River</a></li>
-                                        <li><a href="#">Kangaroo Island</a></li>
-                                        <li><a href="#">Broome</a></li>
-                                        <li><a href="#">Surfers Paradise</a></li>
-                                        <li><a href="#">Hamilton Island</a></li>
-                                        <li><a href="#">Kakadu National Park</a></li>
-                                        <li><a href="#">Launceston</a></li>
-                                        <li><a href="#">Phillip Island</a></li>
-                                        <li><a href="#">Barossa Valley</a></li>
-                                        <li><a href="#">Hervey Bay</a></li>
-                                        <li><a href="#">Exmouth</a></li>
-                                        <li><a href="#">Pemberton</a></li>
-                                        <li><a href="#">Townsville</a></li>
+                                        <li><a href="#">Colombo</a></li>
+                                        <li><a href="#">Negombo</a></li>
+                                        <li><a href="#">Anuradhapura</a></li>
+                                        <li><a href="#">Udawalawe National Park</a></li>
+                                        <li><a href="#">Bundala National Park</a></li>
+                                        <li><a href="#">Bentota</a></li>
+                                        <li><a href="#">Trincomalee</a></li>
+                                        <li><a href="#">Dambulla</a></li>
+                                        <li><a href="#">Polonnaruwa</a></li>
+                                        <li><a href="#">Wilpattu National Park</a></li>
+                                        <li><a href="#">Hatton</a></li>
+                                        <li><a href="#">Bandarawela</a></li>
+                                        <li><a href="#">Habarana</a></li>
+                                        <li><a href="#">Kumana National Park</a></li>
+                                        <li><a href="#">Katharagama</a></li>
+                                        <li><a href="#">Horton Plains</a></li>
+                                        <li><a href="#">Jaffna</a></li>
+                                        <li><a href="#">Wadduwa</a></li>
+                                        <li><a href="#">Galle</a></li>
+                                        <li><a href="#">Dehiwala-Mount Lavinia</a></li>
+                                        <li><a href="#">Pinnawala</a></li>
 
                                     </ul>
 
@@ -579,7 +579,7 @@
                             </div>
 
                             <div class="text-center">	
-                                <a href="#" class="btn btn-primary">All Australia Destinations</a>
+                                <a href="#" class="btn btn-primary">All Sri Lankan Destinations</a>
                             </div>
 
                         </div>
